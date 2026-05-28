@@ -1,3 +1,4 @@
+// This problem is based on Two pointer sum pattern.
 #include<iostream>
 #include<vector>
 #include<algorithm>

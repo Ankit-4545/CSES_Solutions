@@ -1,3 +1,5 @@
+// This problem is based on greedy appraoch after sorting input arrays give each client an appratement 
+// if appartment can allowed otherwise move to next appartment or client.
 #include<iostream>
 #include<algorithm>
 #include<vector>

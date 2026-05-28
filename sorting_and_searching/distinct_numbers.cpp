@@ -1,3 +1,5 @@
+// In this we just have to find the number of distinct number in the given input. This resembles the 
+// propertyy of a set.
 #include<iostream>
 #include<set>
 using namespace std;
